@@ -14,6 +14,7 @@ The purpose of this election audit analysis was to add data requested by the ele
 
 ## Resources
 -Data Source: election_results.csv
+
 -Software: Python 3.6.1, Visual Studio Code, 1.38.1
 
 ## Summary

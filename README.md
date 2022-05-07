@@ -69,7 +69,7 @@ Code snippet to determine winner:
 
 
 
-## Election -Audit Summary:
+## Election-Audit Summary:
 Election commission this script we have created for the current election can be modified for any elections you may need assistance in the future. Python is a powerful tool where we can pull data from any excel csv file and evaluate election results. The committee can access CSV data by just fixing the path where you want the data from and then the data will be pulled from that CSV.
 
 Code snippet for path to CSV file:

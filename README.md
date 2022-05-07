@@ -39,7 +39,7 @@ Code snippet for highest county turnout:
 
 
 
-- Denver had the largest number of votes which was 306, 055 and had 82.8% of total votes.
+- Denver had the largest number of votes which was 306,055 and had 82.8% of total votes.
 - The candidates were:
 	- Charles Casper Stockham
 	- Diana DeGette

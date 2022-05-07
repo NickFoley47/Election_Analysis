@@ -26,10 +26,15 @@ The analysis of the election show that:
 	- Arapahoe: Had 6.7% of votes and 24,801 votes casted.
 
 Code snippet to determine county percentage of votes:
+
 ![Code for County Percent](https://github.com/NickFoley47/Election_Analysis/blob/main/Resources/Code%20for%20County%20Percent.PNG)
+
 Code snippet to determine to total county votes:
+
 ![Code for total county votes]( https://github.com/NickFoley47/Election_Analysis/blob/main/Resources/Code%20for%20total%20county%20votes.PNG)
+
 Code snipper for highest county turnout:
+
 ![Code for highest county turnout]( https://github.com/NickFoley47/Election_Analysis/blob/main/Resources/Code%20for%20highest%20county%20turnout.PNG)
 
 

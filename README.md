@@ -37,7 +37,7 @@ Code snippet for highest county turnout:
 
 ![Code for highest county turnout]( https://github.com/NickFoley47/Election_Analysis/blob/main/Resources/Code%20for%20highest%20county%20turnout.PNG)
 
-## County with largest turnout:
+### County with largest turnout:
 - Denver had the largest number of votes which was 306,055 and had 82.8% of total votes.
 
 - The candidates were:
@@ -53,7 +53,7 @@ Code snippet to determine candidate votes and percentages:
 
 ![Code for candidate votes and percentage]( https://github.com/NickFoley47/Election_Analysis/blob/main/Resources/Code%20for%20candidate%20votes%20and%20percentage.PNG)
 
-## Winner of Election:
+### Winner of Election:
 - The winner of the election was: Diana DeGette who received 73.8% of the vote and 272,892 votes.  
 
 

@@ -33,7 +33,7 @@ Code snippet to determine to total county votes:
 
 ![Code for total county votes]( https://github.com/NickFoley47/Election_Analysis/blob/main/Resources/Code%20for%20total%20county%20votes.PNG)
 
-Code snipper for highest county turnout:
+Code snippet for highest county turnout:
 
 ![Code for highest county turnout]( https://github.com/NickFoley47/Election_Analysis/blob/main/Resources/Code%20for%20highest%20county%20turnout.PNG)
 
@@ -47,9 +47,19 @@ Code snipper for highest county turnout:
 - The candidate results were:
 	- Charles Casper Stockham received 23% of the vote and 85,213 votes.
 	- Diana DeGette received 73.8% of the vote and 272,892 votes.
-	- Raymon Anthony Doane received 3.1% of the vote and 11, 606 votes.
+	- Raymon Anthony Doane received 3.1% of the vote and 11,606 votes.
+	- 
+Code snippet to determine candidate votes and percentages:
+
+![Code for candidate votes and percentage]( https://github.com/NickFoley47/Election_Analysis/blob/main/Resources/Code%20for%20candidate%20votes%20and%20percentage.PNG)
 
 - The winner of the election was: Diana DeGette who received 73.8% of the vote and 272,892 votes.  
+
+Code snippet to determine winner:
+
+![Code for candidate winner]( https://github.com/NickFoley47/Election_Analysis/blob/main/Resources/Code%20for%20candidate%20winner.PNG)
+
+
 
 ## Challenge Overview
 

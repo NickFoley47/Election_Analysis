@@ -51,7 +51,7 @@ Code snippet for highest county turnout:
 	- 
 Snippet of election results:
 
-![Election results](![Code for candidate votes and percentage](https://github.com/NickFoley47/Election_Analysis/blob/main/Resources/Election%20results.PNG)
+![Election Final results](https://github.com/NickFoley47/Election_Analysis/blob/main/Resources/Election%20results.PNG)
 
 Code snippet to determine candidate votes and percentages:
 

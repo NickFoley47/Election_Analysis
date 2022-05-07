@@ -48,7 +48,11 @@ Code snippet for highest county turnout:
 	- Charles Casper Stockham received 23% of the vote and 85,213 votes.
 	- Diana DeGette received 73.8% of the vote and 272,892 votes.
 	- Raymon Anthony Doane received 3.1% of the vote and 11,606 votes.
-	
+	- 
+Snippet of election results:
+
+![Election results](![Code for candidate votes and percentage](https://github.com/NickFoley47/Election_Analysis/blob/main/Resources/Election%20results.PNG)
+
 Code snippet to determine candidate votes and percentages:
 
 ![Code for candidate votes and percentage]( https://github.com/NickFoley47/Election_Analysis/blob/main/Resources/Code%20for%20candidate%20votes%20and%20percentage.PNG)
